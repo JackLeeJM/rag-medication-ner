@@ -2,6 +2,9 @@
 
 This project demonstrates a novel application of Retrieval-Augmented Generation (RAG) for Named Entity Recognition (NER) in healthcare. The solution combines advanced search techniques and large language models (LLMs) to accurately extract medication-related entities, including drug names, dosages, quantities, administration types, and brands, from unstructured text. By leveraging hybrid search and reranking, the system achieves state-of-the-art accuracy in processing complex medical datasets.
 
+> [!NOTE]
+> Check out the accompanying [article](https://jackleejm.com/rag-medication-ner/) for more in-depth details on how and why this project was developed.
+
 ## Table of Content
 
 1. **[Features](#features)**
