@@ -1,0 +1,15 @@
+services:
+  qdrant:
+    image: qdrant/qdrant:latest
+    restart: always
+    container_name: qdrant
+    env_file:
+      - .env
+    ports:
+      - ${QDRANT_PORT_EXTERNAL}:6333
+      - 6334:6334
+    volumes:
+      - qdrant_data:/qdrant/storage
+
+volumes:
+  qdrant_data:

@@ -1,0 +1,4572 @@
+[
+    {
+        "original_text": "Acetaminophen 325 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Acetaminophen"
+        ],
+        "dosage": [
+            "325 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Ibuprofen 100 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Ibuprofen"
+        ],
+        "dosage": [
+            "100 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Acetaminophen 160 MG Chewable Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Acetaminophen"
+        ],
+        "dosage": [
+            "160 MG"
+        ],
+        "administration_type": [
+            "Chewable Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Amoxicillin",
+            "Clavulanate"
+        ],
+        "dosage": [
+            "250 MG",
+            "125 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution",
+        "quantity": [],
+        "drug_name": [
+            "Acetaminophen",
+            "Dextromethorphan Hydrobromide",
+            "doxylamine succinate"
+        ],
+        "dosage": [
+            "21.7 MG/ML",
+            "1 MG/ML",
+            "0.417 MG/ML"
+        ],
+        "administration_type": [
+            "Oral Solution"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "cetirizine hydrochloride 5 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "cetirizine hydrochloride"
+        ],
+        "dosage": [
+            "5 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector",
+        "quantity": [
+            "0.3 ML"
+        ],
+        "drug_name": [
+            "Epinephrine"
+        ],
+        "dosage": [
+            "1 MG/ML"
+        ],
+        "administration_type": [
+            "Auto-Injector"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]",
+        "quantity": [
+            "120 ACTUAT"
+        ],
+        "drug_name": [
+            "fluticasone propionate"
+        ],
+        "dosage": [
+            "0.11 MG/ACTUAT"
+        ],
+        "administration_type": [
+            "Metered Dose Inhaler"
+        ],
+        "brand": [
+            "Flovent"
+        ]
+    },
+    {
+        "original_text": "albuterol 0.83 MG/ML Inhalation Solution",
+        "quantity": [],
+        "drug_name": [
+            "albuterol"
+        ],
+        "dosage": [
+            "0.83 MG/ML"
+        ],
+        "administration_type": [
+            "Inhalation Solution"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Amoxicillin 500 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Amoxicillin"
+        ],
+        "dosage": [
+            "500 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Natazia 28 Day Pack",
+        "quantity": [
+            "28 Day Pack"
+        ],
+        "drug_name": [],
+        "dosage": [],
+        "administration_type": [],
+        "brand": [
+            "Natazia"
+        ]
+    },
+    {
+        "original_text": "Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Acetaminophen",
+            "HYDROcodone Bitartrate"
+        ],
+        "dosage": [
+            "325 MG",
+            "7.5 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System",
+        "quantity": [
+            "168 HR"
+        ],
+        "drug_name": [
+            "Ethinyl Estradiol",
+            "norelgestromin"
+        ],
+        "dosage": [
+            "0.00146 MG/HR",
+            "0.00625 MG/HR"
+        ],
+        "administration_type": [
+            "Transdermal System"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Seasonique 91 Day Pack",
+        "quantity": [
+            "91 Day Pack"
+        ],
+        "drug_name": [],
+        "dosage": [],
+        "administration_type": [],
+        "brand": [
+            "Seasonique"
+        ]
+    },
+    {
+        "original_text": "Penicillin V Potassium 500 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Penicillin V Potassium"
+        ],
+        "dosage": [
+            "500 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "nitrofurantoin macrocrystals 25 MG / nitrofurantoin monohydrate 75 MG Oral Capsule",
+        "quantity": [],
+        "drug_name": [
+            "nitrofurantoin macrocrystals",
+            "nitrofurantoin monohydrate"
+        ],
+        "dosage": [
+            "25 MG",
+            "75 MG"
+        ],
+        "administration_type": [
+            "Oral Capsule"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "1 ML medroxyprogesterone acetate 150 MG/ML Injection",
+        "quantity": [
+            "1 ML"
+        ],
+        "drug_name": [
+            "medroxyprogesterone acetate"
+        ],
+        "dosage": [
+            "150 MG/ML"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal System",
+        "quantity": [
+            "21 Day Vaginal System"
+        ],
+        "drug_name": [],
+        "dosage": [
+            "0.12/0.015 MG per 24HR"
+        ],
+        "administration_type": [],
+        "brand": [
+            "NuvaRing"
+        ]
+    },
+    {
+        "original_text": "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Acetaminophen",
+            "Hydrocodone Bitartrate"
+        ],
+        "dosage": [
+            "300 MG",
+            "5 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Levora 0.15/30 28 Day Pack",
+        "quantity": [
+            "28 Day Pack"
+        ],
+        "drug_name": [],
+        "dosage": [
+            "0.15/30"
+        ],
+        "administration_type": [],
+        "brand": [
+            "Levora"
+        ]
+    },
+    {
+        "original_text": "cephalexin 500 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "cephalexin"
+        ],
+        "dosage": [
+            "500 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Camila 28 Day Pack",
+        "quantity": [
+            "28 Day Pack"
+        ],
+        "drug_name": [],
+        "dosage": [],
+        "administration_type": [],
+        "brand": [
+            "Camila"
+        ]
+    },
+    {
+        "original_text": "Fexofenadine hydrochloride 30 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Fexofenadine hydrochloride"
+        ],
+        "dosage": [
+            "30 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "ciprofloxacin 500 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "ciprofloxacin"
+        ],
+        "dosage": [
+            "500 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Amoxicillin 250 MG Oral Capsule",
+        "quantity": [],
+        "drug_name": [
+            "Amoxicillin"
+        ],
+        "dosage": [
+            "250 MG"
+        ],
+        "administration_type": [
+            "Oral Capsule"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Meperidine Hydrochloride 50 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Meperidine Hydrochloride"
+        ],
+        "dosage": [
+            "50 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Ibuprofen 200 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Ibuprofen"
+        ],
+        "dosage": [
+            "200 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "lisinopril 10 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "lisinopril"
+        ],
+        "dosage": [
+            "10 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "amLODIPine 2.5 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "amLODIPine"
+        ],
+        "dosage": [
+            "2.5 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Cefuroxime 250 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Cefuroxime"
+        ],
+        "dosage": [
+            "250 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Penicillin V Potassium 250 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Penicillin V Potassium"
+        ],
+        "dosage": [
+            "250 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Etonogestrel 68 MG Drug Implant",
+        "quantity": [],
+        "drug_name": [
+            "Etonogestrel"
+        ],
+        "dosage": [
+            "68 MG"
+        ],
+        "administration_type": [
+            "Drug Implant"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Hydrochlorothiazide 25 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Hydrochlorothiazide"
+        ],
+        "dosage": [
+            "25 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Yaz 28 Day Pack",
+        "quantity": [
+            "28 Day Pack"
+        ],
+        "drug_name": [],
+        "dosage": [],
+        "administration_type": [],
+        "brand": [
+            "Yaz"
+        ]
+    },
+    {
+        "original_text": "Astemizole 10 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Astemizole"
+        ],
+        "dosage": [
+            "10 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Errin 28 Day Pack",
+        "quantity": [
+            "28 Day Pack"
+        ],
+        "drug_name": [],
+        "dosage": [],
+        "administration_type": [],
+        "brand": [
+            "Errin"
+        ]
+    },
+    {
+        "original_text": "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Metformin hydrochloride"
+        ],
+        "dosage": [
+            "500 MG"
+        ],
+        "administration_type": [
+            "Extended Release Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Trinessa 28 Day Pack",
+        "quantity": [
+            "28 Day Pack"
+        ],
+        "drug_name": [],
+        "dosage": [],
+        "administration_type": [],
+        "brand": [
+            "Trinessa"
+        ]
+    },
+    {
+        "original_text": "Vitamin B12 5 MG/ML Injectable Solution",
+        "quantity": [],
+        "drug_name": [
+            "Vitamin B12"
+        ],
+        "dosage": [
+            "5 MG/ML"
+        ],
+        "administration_type": [
+            "Injectable Solution"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Jolivette 28 Day Pack",
+        "quantity": [
+            "28 Day Pack"
+        ],
+        "drug_name": [],
+        "dosage": [],
+        "administration_type": [],
+        "brand": [
+            "Jolivette"
+        ]
+    },
+    {
+        "original_text": "albuterol 5 MG/ML Inhalation Solution",
+        "quantity": [],
+        "drug_name": [
+            "albuterol"
+        ],
+        "dosage": [
+            "5 MG/ML"
+        ],
+        "administration_type": [
+            "Inhalation Solution"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler",
+        "quantity": [
+            "60 ACTUAT"
+        ],
+        "drug_name": [
+            "Fluticasone propionate",
+            "salmeterol"
+        ],
+        "dosage": [
+            "0.25 MG/ACTUAT",
+            "0.05 MG/ACTUAT"
+        ],
+        "administration_type": [
+            "Dry Powder Inhaler"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Liletta 52 MG Intrauterine System",
+        "quantity": [],
+        "drug_name": [
+            "Liletta"
+        ],
+        "dosage": [
+            "52 MG"
+        ],
+        "administration_type": [
+            "Intrauterine System"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "72 HR Fentanyl 0.025 MG/HR Transdermal System",
+        "quantity": [
+            "72 HR"
+        ],
+        "drug_name": [
+            "Fentanyl"
+        ],
+        "dosage": [
+            "0.025 MG/HR"
+        ],
+        "administration_type": [
+            "Transdermal System"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+        "quantity": [
+            "12 HR"
+        ],
+        "drug_name": [
+            "Oxycodone Hydrochloride"
+        ],
+        "dosage": [
+            "10 MG"
+        ],
+        "administration_type": [
+            "Extended Release Oral Tablet"
+        ],
+        "brand": [
+            "Oxycontin"
+        ]
+    },
+    {
+        "original_text": "Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]",
+        "quantity": [],
+        "drug_name": [
+            "Acetaminophen",
+            "Oxycodone Hydrochloride"
+        ],
+        "dosage": [
+            "325 MG",
+            "10 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": [
+            "Percocet"
+        ]
+    },
+    {
+        "original_text": "Leucovorin 100 MG Injection",
+        "quantity": [],
+        "drug_name": [
+            "Leucovorin"
+        ],
+        "dosage": [
+            "100 MG"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "10 ML oxaliplatin 5 MG/ML Injection",
+        "quantity": [
+            "10 ML"
+        ],
+        "drug_name": [
+            "oxaliplatin"
+        ],
+        "dosage": [
+            "5 MG/ML"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Chlorpheniramine Maleate 2 MG/ML Oral Solution",
+        "quantity": [],
+        "drug_name": [
+            "Chlorpheniramine Maleate"
+        ],
+        "dosage": [
+            "2 MG/ML"
+        ],
+        "administration_type": [
+            "Oral Solution"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Naproxen sodium 220 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Naproxen sodium"
+        ],
+        "dosage": [
+            "220 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "ferrous sulfate 325 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "ferrous sulfate"
+        ],
+        "dosage": [
+            "325 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Acetaminophen 325 MG Oral Tablet [Tylenol]",
+        "quantity": [],
+        "drug_name": [
+            "Acetaminophen"
+        ],
+        "dosage": [
+            "325 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": [
+            "Tylenol"
+        ]
+    },
+    {
+        "original_text": "Levothyroxine Sodium 0.075 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Levothyroxine Sodium"
+        ],
+        "dosage": [
+            "0.075 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "10 ML Doxorubicin Hydrochloride 2 MG/ML Injection",
+        "quantity": [
+            "10 ML"
+        ],
+        "drug_name": [
+            "Doxorubicin Hydrochloride"
+        ],
+        "dosage": [
+            "2 MG/ML"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "5 ML hyaluronidase-oysk 2000 UNT/ML / trastuzumab 120 MG/ML Injection",
+        "quantity": [
+            "5 ML"
+        ],
+        "drug_name": [
+            "hyaluronidase-oysk",
+            "trastuzumab"
+        ],
+        "dosage": [
+            "2000 UNT/ML",
+            "120 MG/ML"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Mirena 52 MG Intrauterine System",
+        "quantity": [],
+        "drug_name": [
+            "Mirena"
+        ],
+        "dosage": [
+            "52 MG"
+        ],
+        "administration_type": [
+            "Intrauterine System"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "amoxicillin 500 MG / clavulanate 125 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "amoxicillin",
+            "clavulanate"
+        ],
+        "dosage": [
+            "500 MG",
+            "125 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "budesonide 0.25 MG/ML Inhalation Suspension",
+        "quantity": [],
+        "drug_name": [
+            "budesonide"
+        ],
+        "dosage": [
+            "0.25 MG/ML"
+        ],
+        "administration_type": [
+            "Inhalation Suspension"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "albuterol 0.21 MG/ML Inhalation Solution",
+        "quantity": [],
+        "drug_name": [
+            "albuterol"
+        ],
+        "dosage": [
+            "0.21 MG/ML"
+        ],
+        "administration_type": [
+            "Inhalation Solution"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Clopidogrel 75 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Clopidogrel"
+        ],
+        "dosage": [
+            "75 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Simvastatin 20 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Simvastatin"
+        ],
+        "dosage": [
+            "20 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+        "quantity": [
+            "24 HR"
+        ],
+        "drug_name": [
+            "metoprolol succinate"
+        ],
+        "dosage": [
+            "100 MG"
+        ],
+        "administration_type": [
+            "Extended Release Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+        "quantity": [],
+        "drug_name": [
+            "Nitroglycerin"
+        ],
+        "dosage": [
+            "0.4 MG/ACTUAT"
+        ],
+        "administration_type": [
+            "Mucosal Spray"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "ciprofloxacin 250 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "ciprofloxacin"
+        ],
+        "dosage": [
+            "250 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Hydrocortisone 10 MG/ML Topical Cream",
+        "quantity": [],
+        "drug_name": [
+            "Hydrocortisone"
+        ],
+        "dosage": [
+            "10 MG/ML"
+        ],
+        "administration_type": [
+            "Topical Cream"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Loratadine 5 MG Chewable Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Loratadine"
+        ],
+        "dosage": [
+            "5 MG"
+        ],
+        "administration_type": [
+            "Chewable Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Ibuprofen 400 MG Oral Tablet [Ibu]",
+        "quantity": [],
+        "drug_name": [
+            "Ibuprofen"
+        ],
+        "dosage": [
+            "400 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": [
+            "Ibu"
+        ]
+    },
+    {
+        "original_text": "Simvastatin 10 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Simvastatin"
+        ],
+        "dosage": [
+            "10 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Galantamine 4 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Galantamine"
+        ],
+        "dosage": [
+            "4 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "insulin isophane human 70 UNT/ML / insulin regular human 30 UNT/ML Injectable Suspension [Humulin]",
+        "quantity": [],
+        "drug_name": [
+            "Insulin isophane human",
+            "insulin regular human"
+        ],
+        "dosage": [
+            "70 UNT/ML",
+            "30 UNT/ML"
+        ],
+        "administration_type": [
+            "Injectable Suspension"
+        ],
+        "brand": [
+            "Humulin"
+        ]
+    },
+    {
+        "original_text": "Loratadine 10 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Loratadine"
+        ],
+        "dosage": [
+            "10 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "sulfamethoxazole",
+            "trimethoprim"
+        ],
+        "dosage": [
+            "800 MG",
+            "160 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Acetaminophen",
+            "oxyCODONE Hydrochloride"
+        ],
+        "dosage": [
+            "325 MG",
+            "5 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Acetaminophen",
+            "Codeine Phosphate"
+        ],
+        "dosage": [
+            "300 MG",
+            "15 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "piperacillin 2000 MG / tazobactam 250 MG Injection",
+        "quantity": [],
+        "drug_name": [
+            "piperacillin",
+            "tazobactam"
+        ],
+        "dosage": [
+            "2000 MG",
+            "250 MG"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "150 ML vancomycin 5 MG/ML Injection",
+        "quantity": [
+            "150 ML"
+        ],
+        "drug_name": [
+            "vancomycin"
+        ],
+        "dosage": [
+            "5 MG/ML"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "4 ML norepinephrine 1 MG/ML Injection",
+        "quantity": [
+            "4 ML"
+        ],
+        "drug_name": [
+            "norepinephrine"
+        ],
+        "dosage": [
+            "1 MG/ML"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Alendronic acid 10 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Alendronic acid"
+        ],
+        "dosage": [
+            "10 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "tramadol hydrochloride 50 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "tramadol hydrochloride"
+        ],
+        "dosage": [
+            "50 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet",
+        "quantity": [
+            "12 HR"
+        ],
+        "drug_name": [
+            "Oxycodone Hydrochloride"
+        ],
+        "dosage": [
+            "15 MG"
+        ],
+        "administration_type": [
+            "Extended Release Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "carbamazepine 20 MG/ML Oral Suspension [Tegretol]",
+        "quantity": [],
+        "drug_name": [
+            "carbamazepine"
+        ],
+        "dosage": [
+            "20 MG/ML"
+        ],
+        "administration_type": [
+            "Oral Suspension"
+        ],
+        "brand": [
+            "Tegretol"
+        ]
+    },
+    {
+        "original_text": "clonazePAM 0.25 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "clonazepam"
+        ],
+        "dosage": [
+            "0.25 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe",
+        "quantity": [
+            "0.4 ML"
+        ],
+        "drug_name": [
+            "Enoxaparin sodium"
+        ],
+        "dosage": [
+            "100 MG/ML"
+        ],
+        "administration_type": [
+            "Prefilled Syringe"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Acetaminophen 500 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Acetaminophen"
+        ],
+        "dosage": [
+            "500 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "aspirin 81 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "aspirin"
+        ],
+        "dosage": [
+            "81 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "metoprolol tartrate 25 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "metoprolol tartrate"
+        ],
+        "dosage": [
+            "25 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "rosuvastatin calcium 10 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "rosuvastatin calcium"
+        ],
+        "dosage": [
+            "10 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "valsartan 80 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "valsartan"
+        ],
+        "dosage": [
+            "80 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe",
+        "quantity": [
+            "1 ML"
+        ],
+        "drug_name": [
+            "Enoxaparin sodium"
+        ],
+        "dosage": [
+            "150 MG/ML"
+        ],
+        "administration_type": [
+            "Prefilled Syringe"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Alteplase 100 MG Injection",
+        "quantity": [],
+        "drug_name": [
+            "Alteplase"
+        ],
+        "dosage": [
+            "100 MG"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "amoxicillin 875 MG / clavulanate 125 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "amoxicillin",
+            "clavulanate"
+        ],
+        "dosage": [
+            "875 MG",
+            "125 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "FLUoxetine 20 MG Oral Capsule",
+        "quantity": [],
+        "drug_name": [
+            "FLUoxetine"
+        ],
+        "dosage": [
+            "20 MG"
+        ],
+        "administration_type": [
+            "Oral Capsule"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "24 HR tacrolimus 1 MG Extended Release Oral Tablet",
+        "quantity": [
+            "24 HR"
+        ],
+        "drug_name": [
+            "tacrolimus"
+        ],
+        "dosage": [
+            "1 MG"
+        ],
+        "administration_type": [
+            "Extended Release Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Furosemide 40 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Furosemide"
+        ],
+        "dosage": [
+            "40 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "carvedilol 25 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "carvedilol"
+        ],
+        "dosage": [
+            "25 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "losartan potassium 50 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "losartan potassium"
+        ],
+        "dosage": [
+            "50 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "lisinopril 20 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "lisinopril"
+        ],
+        "dosage": [
+            "20 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "sacubitril 97 MG / valsartan 103 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "sacubitril",
+            "valsartan"
+        ],
+        "dosage": [
+            "97 MG",
+            "103 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "10 ML Furosemide 10 MG/ML Injection",
+        "quantity": [
+            "10 ML"
+        ],
+        "drug_name": [
+            "Furosemide"
+        ],
+        "dosage": [
+            "10 MG/ML"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule",
+        "quantity": [
+            "24 HR"
+        ],
+        "drug_name": [
+            "Donepezil hydrochloride",
+            "Memantine hydrochloride"
+        ],
+        "dosage": [
+            "10 MG",
+            "28 MG"
+        ],
+        "administration_type": [
+            "Extended Release Oral Capsule"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir alafenamide 10 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "cobicistat",
+            "elvitegravir",
+            "emtricitabine",
+            "tenofovir alafenamide"
+        ],
+        "dosage": [
+            "150 MG",
+            "150 MG",
+            "200 MG",
+            "10 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Kyleena 19.5 MG Intrauterine System",
+        "quantity": [],
+        "drug_name": [
+            "Kyleena"
+        ],
+        "dosage": [
+            "19.5 MG"
+        ],
+        "administration_type": [
+            "Intrauterine System"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "diphenhydrAMINE Hydrochloride 25 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "diphenhydrAMINE Hydrochloride"
+        ],
+        "dosage": [
+            "25 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]",
+        "quantity": [
+            "200 ACTUAT"
+        ],
+        "drug_name": [
+            "Albuterol"
+        ],
+        "dosage": [
+            "0.09 MG/ACTUAT"
+        ],
+        "administration_type": [
+            "Metered Dose Inhaler"
+        ],
+        "brand": [
+            "Ventolin"
+        ]
+    },
+    {
+        "original_text": "predniSONE 5 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "predniSONE"
+        ],
+        "dosage": [
+            "5 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "cefazolin 2000 MG Injection",
+        "quantity": [],
+        "drug_name": [
+            "cefazolin"
+        ],
+        "dosage": [
+            "2000 MG"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "1 ML heparin sodium porcine 5000 UNT/ML Injection",
+        "quantity": [
+            "1 ML"
+        ],
+        "drug_name": [
+            "heparin sodium porcine"
+        ],
+        "dosage": [
+            "5000 UNT/ML"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "25 ML protamine sulfate (USP) 10 MG/ML Injection",
+        "quantity": [
+            "25 ML"
+        ],
+        "drug_name": [
+            "protamine sulfate"
+        ],
+        "dosage": [
+            "10 MG/ML"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "2 ML Ondansetron 2 MG/ML Injection",
+        "quantity": [
+            "2 ML"
+        ],
+        "drug_name": [
+            "Ondansetron"
+        ],
+        "dosage": [
+            "2 MG/ML"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Midazolam 1 MG/ML Injectable Solution",
+        "quantity": [],
+        "drug_name": [
+            "Midazolam"
+        ],
+        "dosage": [
+            "1 MG/ML"
+        ],
+        "administration_type": [
+            "Injectable Solution"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "100 ML Propofol 10 MG/ML Injection",
+        "quantity": [
+            "100 ML"
+        ],
+        "drug_name": [
+            "Propofol"
+        ],
+        "dosage": [
+            "10 MG/ML"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Rocuronium bromide 10 MG/ML Injectable Solution",
+        "quantity": [],
+        "drug_name": [
+            "Rocuronium bromide"
+        ],
+        "dosage": [
+            "10 MG/ML"
+        ],
+        "administration_type": [
+            "Injectable Solution"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "desflurane 1000 MG/ML Inhalation Solution",
+        "quantity": [],
+        "drug_name": [
+            "desflurane"
+        ],
+        "dosage": [
+            "1000 MG/ML"
+        ],
+        "administration_type": [
+            "Inhalation Solution"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "remifentanil 2 MG Injection",
+        "quantity": [],
+        "drug_name": [
+            "remifentanil"
+        ],
+        "dosage": [
+            "2 MG"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "aspirin 325 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "aspirin"
+        ],
+        "dosage": [
+            "325 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "nitroglycerin 0.4 MG Sublingual Tablet",
+        "quantity": [],
+        "drug_name": [
+            "nitroglycerin"
+        ],
+        "dosage": [
+            "0.4 MG"
+        ],
+        "administration_type": [
+            "Sublingual Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "heparin sodium porcine 100 UNT/ML Injectable Solution",
+        "quantity": [],
+        "drug_name": [
+            "heparin sodium porcine"
+        ],
+        "dosage": [
+            "100 UNT/ML"
+        ],
+        "administration_type": [
+            "Injectable Solution"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "ticagrelor 90 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "ticagrelor"
+        ],
+        "dosage": [
+            "90 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "100 ML tirofiban 0.05 MG/ML Injection",
+        "quantity": [
+            "100 ML"
+        ],
+        "drug_name": [
+            "tirofiban"
+        ],
+        "dosage": [
+            "0.05 MG/ML"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "atorvastatin 40 MG Oral Tablet [Lipitor]",
+        "quantity": [],
+        "drug_name": [
+            "atorvastatin"
+        ],
+        "dosage": [
+            "40 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": [
+            "Lipitor"
+        ]
+    },
+    {
+        "original_text": "lisinopril 2.5 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "lisinopril"
+        ],
+        "dosage": [
+            "2.5 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "prasugrel 10 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "prasugrel"
+        ],
+        "dosage": [
+            "10 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "verapamil hydrochloride 80 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "verapamil hydrochloride"
+        ],
+        "dosage": [
+            "80 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Digoxin 0.125 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Digoxin"
+        ],
+        "dosage": [
+            "0.125 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Warfarin Sodium 5 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Warfarin Sodium"
+        ],
+        "dosage": [
+            "5 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen]",
+        "quantity": [
+            "1 ML"
+        ],
+        "drug_name": [
+            "Epoetin Alfa"
+        ],
+        "dosage": [
+            "4000 UNT/ML"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": [
+            "Epogen"
+        ]
+    },
+    {
+        "original_text": "Fexofenadine hydrochloride 60 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Fexofenadine hydrochloride"
+        ],
+        "dosage": [
+            "60 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Terfenadine 60 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Terfenadine"
+        ],
+        "dosage": [
+            "60 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "isoflurane 99.9 % Inhalation Solution",
+        "quantity": [],
+        "drug_name": [
+            "isoflurane"
+        ],
+        "dosage": [
+            "99.9 %"
+        ],
+        "administration_type": [
+            "Inhalation Solution"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "5 ML SUFentanil 0.05 MG/ML Injection",
+        "quantity": [
+            "5 ML"
+        ],
+        "drug_name": [
+            "SUFentanil"
+        ],
+        "dosage": [
+            "0.05 MG/ML"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "nicotine 7 MG/Day 24HR Transdermal System",
+        "quantity": [],
+        "drug_name": [
+            "nicotine"
+        ],
+        "dosage": [
+            "7 MG/Day"
+        ],
+        "administration_type": [
+            "Transdermal System"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]",
+        "quantity": [
+            "120 ACTUAT"
+        ],
+        "drug_name": [
+            "fluticasone propionate"
+        ],
+        "dosage": [
+            "0.044 MG/ACTUAT"
+        ],
+        "administration_type": [
+            "Metered Dose Inhaler"
+        ],
+        "brand": [
+            "Flovent"
+        ]
+    },
+    {
+        "original_text": "1 ML tacrolimus 5 MG/ML Injection",
+        "quantity": [
+            "1 ML"
+        ],
+        "drug_name": [
+            "tacrolimus"
+        ],
+        "dosage": [
+            "5 MG/ML"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "cycloSPORINE modified 100 MG Oral Capsule",
+        "quantity": [],
+        "drug_name": [
+            "cycloSPORINE"
+        ],
+        "dosage": [
+            "100 MG"
+        ],
+        "administration_type": [
+            "Oral Capsule"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "24 HR tacrolimus 5 MG Extended Release Oral Capsule",
+        "quantity": [
+            "24 HR"
+        ],
+        "drug_name": [
+            "tacrolimus"
+        ],
+        "dosage": [
+            "5 MG"
+        ],
+        "administration_type": [
+            "Extended Release Oral Capsule"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "doxycycline hyclate 100 MG",
+        "quantity": [],
+        "drug_name": [
+            "doxycycline hyclate"
+        ],
+        "dosage": [
+            "100 MG"
+        ],
+        "administration_type": [],
+        "brand": []
+    },
+    {
+        "original_text": "100 ML eptifibatide 0.75 MG/ML Injection",
+        "quantity": [
+            "100 ML"
+        ],
+        "drug_name": [
+            "eptifibatide"
+        ],
+        "dosage": [
+            "0.75 MG/ML"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "atenolol 50 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "atenolol"
+        ],
+        "dosage": [
+            "50 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "simvastatin 40 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "simvastatin"
+        ],
+        "dosage": [
+            "40 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "irbesartan 300 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "irbesartan"
+        ],
+        "dosage": [
+            "300 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "10 ML Fentanyl 0.05 MG/ML Injection",
+        "quantity": [
+            "10 ML"
+        ],
+        "drug_name": [
+            "Fentanyl"
+        ],
+        "dosage": [
+            "0.05 MG/ML"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "2 ML morphine sulfate 1 MG/ML Injection",
+        "quantity": [
+            "2 ML"
+        ],
+        "drug_name": [
+            "morphine sulfate"
+        ],
+        "dosage": [
+            "1 MG/ML"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "atorvastatin 40 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "atorvastatin"
+        ],
+        "dosage": [
+            "40 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "losartan potassium 100 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "losartan potassium"
+        ],
+        "dosage": [
+            "100 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "fosfomycin 3000 MG Powder",
+        "quantity": [],
+        "drug_name": [
+            "fosfomycin"
+        ],
+        "dosage": [
+            "3000 MG"
+        ],
+        "administration_type": [
+            "Powder"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule",
+        "quantity": [
+            "12 HR"
+        ],
+        "drug_name": [
+            "Hydrocodone Bitartrate"
+        ],
+        "dosage": [
+            "10 MG"
+        ],
+        "administration_type": [
+            "Extended Release Oral Capsule"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Naproxen 500 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Naproxen"
+        ],
+        "dosage": [
+            "500 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir]",
+        "quantity": [
+            "200 ACTUAT"
+        ],
+        "drug_name": [
+            "albuterol"
+        ],
+        "dosage": [
+            "0.09 MG/ACTUAT"
+        ],
+        "administration_type": [
+            "Metered Dose Inhaler"
+        ],
+        "brand": [
+            "ProAir"
+        ]
+    },
+    {
+        "original_text": "atenolol 25 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "atenolol"
+        ],
+        "dosage": [
+            "25 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "atorvastatin 10 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "atorvastatin"
+        ],
+        "dosage": [
+            "10 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "lisinopril 40 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "lisinopril"
+        ],
+        "dosage": [
+            "40 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "budesonide 0.125 MG/ML Inhalation Suspension",
+        "quantity": [],
+        "drug_name": [
+            "budesonide"
+        ],
+        "dosage": [
+            "0.125 MG/ML"
+        ],
+        "administration_type": [
+            "Inhalation Suspension"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Tamoxifen 10 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Tamoxifen"
+        ],
+        "dosage": [
+            "10 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Verzenio 100 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Verzenio"
+        ],
+        "dosage": [
+            "100 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "insulin regular human 100 UNT/ML Injectable Solution",
+        "quantity": [],
+        "drug_name": [
+            "insulin regular human"
+        ],
+        "dosage": [
+            "100 UNT/ML"
+        ],
+        "administration_type": [
+            "Injectable Solution"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "sevoflurane 1000 MG/ML Inhalation Solution",
+        "quantity": [],
+        "drug_name": [
+            "sevoflurane"
+        ],
+        "dosage": [
+            "1000 MG/ML"
+        ],
+        "administration_type": [
+            "Inhalation Solution"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "pravastatin sodium 20 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "pravastatin sodium"
+        ],
+        "dosage": [
+            "20 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Milnacipran hydrochloride 100 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Milnacipran hydrochloride"
+        ],
+        "dosage": [
+            "100 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",
+        "quantity": [
+            "200 ACTUAT"
+        ],
+        "drug_name": [
+            "Albuterol"
+        ],
+        "dosage": [
+            "0.09 MG/ACTUAT"
+        ],
+        "administration_type": [
+            "Metered Dose Inhaler"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet",
+        "quantity": [],
+        "drug_name": [
+            "buprenorphine",
+            "naloxone"
+        ],
+        "dosage": [
+            "2 MG",
+            "0.5 MG"
+        ],
+        "administration_type": [
+            "Sublingual Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "clopidogrel 300 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "clopidogrel"
+        ],
+        "dosage": [
+            "300 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "atomoxetine 100 MG Oral Capsule",
+        "quantity": [],
+        "drug_name": [
+            "atomoxetine"
+        ],
+        "dosage": [
+            "100 MG"
+        ],
+        "administration_type": [
+            "Oral Capsule"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Colchicine 0.6 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Colchicine"
+        ],
+        "dosage": [
+            "0.6 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Allopurinol 100 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Allopurinol"
+        ],
+        "dosage": [
+            "100 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "carvedilol 6.25 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "carvedilol"
+        ],
+        "dosage": [
+            "6.25 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "hydrochlorothiazide 25 MG / losartan potassium 100 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "hydrochlorothiazide",
+            "losartan potassium"
+        ],
+        "dosage": [
+            "25 MG",
+            "100 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "24 HR metoprolol succinate 25 MG Extended Release Oral Tablet",
+        "quantity": [
+            "24 HR"
+        ],
+        "drug_name": [
+            "metoprolol succinate"
+        ],
+        "dosage": [
+            "25 MG"
+        ],
+        "administration_type": [
+            "Extended Release Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "atorvastatin 80 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "atorvastatin"
+        ],
+        "dosage": [
+            "80 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "benazepril hydrochloride 40 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "benazepril hydrochloride"
+        ],
+        "dosage": [
+            "40 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Diazepam 5 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Diazepam"
+        ],
+        "dosage": [
+            "5 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Methylphenidate Hydrochloride 20 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Methylphenidate Hydrochloride"
+        ],
+        "dosage": [
+            "20 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Chlorpheniramine Maleate 4 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Chlorpheniramine Maleate"
+        ],
+        "dosage": [
+            "4 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "labetalol hydrochloride 300 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "labetalol hydrochloride"
+        ],
+        "dosage": [
+            "300 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "atorvastatin 20 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "atorvastatin"
+        ],
+        "dosage": [
+            "20 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Aviptadil Infusion",
+        "quantity": [],
+        "drug_name": [
+            "Aviptadil"
+        ],
+        "dosage": [],
+        "administration_type": [
+            "Infusion"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "bivalirudin 50 ML; 5 MG/ML Injection",
+        "quantity": [
+            "50 ML"
+        ],
+        "drug_name": [
+            "bivalirudin"
+        ],
+        "dosage": [
+            "5 MG/ML"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Sodium Chloride 9 MG/ML Injectable Solution",
+        "quantity": [],
+        "drug_name": [
+            "Sodium Chloride"
+        ],
+        "dosage": [
+            "9 MG/ML"
+        ],
+        "administration_type": [
+            "Injectable Solution"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "1 ML Morphine Sulfate 5 MG/ML Injection",
+        "quantity": [
+            "1 ML"
+        ],
+        "drug_name": [
+            "Morphine Sulfate"
+        ],
+        "dosage": [
+            "5 MG/ML"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Piperacillin 4000 MG / tazobactam 500 MG Injection",
+        "quantity": [],
+        "drug_name": [
+            "Piperacillin",
+            "tazobactam"
+        ],
+        "dosage": [
+            "4000 MG",
+            "500 MG"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "pregabalin 100 MG Oral Capsule",
+        "quantity": [],
+        "drug_name": [
+            "pregabalin"
+        ],
+        "dosage": [
+            "100 MG"
+        ],
+        "administration_type": [
+            "Oral Capsule"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "duloxetine 20 MG Delayed Release Oral Capsule",
+        "quantity": [],
+        "drug_name": [
+            "duloxetine"
+        ],
+        "dosage": [
+            "20 MG"
+        ],
+        "administration_type": [
+            "Delayed Release Oral Capsule"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "palbociclib 100 MG Oral Capsule",
+        "quantity": [],
+        "drug_name": [
+            "palbociclib"
+        ],
+        "dosage": [
+            "100 MG"
+        ],
+        "administration_type": [
+            "Oral Capsule"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "cefpodoxime 200 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "cefpodoxime"
+        ],
+        "dosage": [
+            "200 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "10 ML Alfentanil 0.5 MG/ML Injection",
+        "quantity": [
+            "10 ML"
+        ],
+        "drug_name": [
+            "Alfentanil"
+        ],
+        "dosage": [
+            "0.5 MG/ML"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "predniSONE 20 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "predniSONE"
+        ],
+        "dosage": [
+            "20 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "nebivolol 10 MG Oral Tablet [Bystolic]",
+        "quantity": [],
+        "drug_name": [
+            "nebivolol"
+        ],
+        "dosage": [
+            "10 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": [
+            "Bystolic"
+        ]
+    },
+    {
+        "original_text": "lisinopril 5 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "lisinopril"
+        ],
+        "dosage": [
+            "5 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "ramipril 2.5 MG Oral Capsule",
+        "quantity": [],
+        "drug_name": [
+            "ramipril"
+        ],
+        "dosage": [
+            "2.5 MG"
+        ],
+        "administration_type": [
+            "Oral Capsule"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "losartan potassium 25 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "losartan potassium"
+        ],
+        "dosage": [
+            "25 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "rosuvastatin calcium 20 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "rosuvastatin calcium"
+        ],
+        "dosage": [
+            "20 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "hydrochlorothiazide 12.5 MG / lisinopril 10 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "hydrochlorothiazide",
+            "lisinopril"
+        ],
+        "dosage": [
+            "12.5 MG",
+            "10 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "lovastatin 40 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "lovastatin"
+        ],
+        "dosage": [
+            "40 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "enalapril maleate 5 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "enalapril maleate"
+        ],
+        "dosage": [
+            "5 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "120 ACTUAT budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort]",
+        "quantity": [
+            "120 ACTUAT"
+        ],
+        "drug_name": [
+            "budesonide"
+        ],
+        "dosage": [
+            "0.18 MG/ACTUAT"
+        ],
+        "administration_type": [
+            "Dry Powder Inhaler"
+        ],
+        "brand": [
+            "Pulmicort"
+        ]
+    },
+    {
+        "original_text": "enoxaparin sodium 100 MG/ML Injectable Solution",
+        "quantity": [],
+        "drug_name": [
+            "enoxaparin sodium"
+        ],
+        "dosage": [
+            "100 MG/ML"
+        ],
+        "administration_type": [
+            "Injectable Solution"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "metoprolol tartrate 50 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "metoprolol tartrate"
+        ],
+        "dosage": [
+            "50 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "benazepril hydrochloride 10 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "benazepril hydrochloride"
+        ],
+        "dosage": [
+            "10 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "albuterol 0.417 MG/ML Inhalation Solution",
+        "quantity": [],
+        "drug_name": [
+            "albuterol"
+        ],
+        "dosage": [
+            "0.417 MG/ML"
+        ],
+        "administration_type": [
+            "Inhalation Solution"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Diazepam 5 MG/ML Injectable Solution",
+        "quantity": [],
+        "drug_name": [
+            "Diazepam"
+        ],
+        "dosage": [
+            "5 MG/ML"
+        ],
+        "administration_type": [
+            "Injectable Solution"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "heparin sodium porcine 1000 UNT/ML Injectable Solution",
+        "quantity": [],
+        "drug_name": [
+            "heparin sodium porcine"
+        ],
+        "dosage": [
+            "1000 UNT/ML"
+        ],
+        "administration_type": [
+            "Injectable Solution"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "aspirin 81 MG Oral Capsule",
+        "quantity": [],
+        "drug_name": [
+            "aspirin"
+        ],
+        "dosage": [
+            "81 MG"
+        ],
+        "administration_type": [
+            "Oral Capsule"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "remdesivir 100 MG Injection",
+        "quantity": [],
+        "drug_name": [
+            "remdesivir"
+        ],
+        "dosage": [
+            "100 MG"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "valsartan 160 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "valsartan"
+        ],
+        "dosage": [
+            "160 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "24 HR metoprolol succinate 50 MG Extended Release Oral Tablet",
+        "quantity": [
+            "24 HR"
+        ],
+        "drug_name": [
+            "metoprolol succinate"
+        ],
+        "dosage": [
+            "50 MG"
+        ],
+        "administration_type": [
+            "Extended Release Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "lovastatin 20 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "lovastatin"
+        ],
+        "dosage": [
+            "20 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "hydrochlorothiazide 25 MG / lisinopril 20 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "hydrochlorothiazide",
+            "lisinopril"
+        ],
+        "dosage": [
+            "25 MG",
+            "20 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "ritonavir 100 MG Oral Capsule",
+        "quantity": [],
+        "drug_name": [
+            "ritonavir"
+        ],
+        "dosage": [
+            "100 MG"
+        ],
+        "administration_type": [
+            "Oral Capsule"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "fosamprenavir 700 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "fosamprenavir"
+        ],
+        "dosage": [
+            "700 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "emtricitabine",
+            "tenofovir disoproxil fumarate"
+        ],
+        "dosage": [
+            "200 MG",
+            "300 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "raltegravir 400 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "raltegravir"
+        ],
+        "dosage": [
+            "400 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "letrozole 2.5 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "letrozole"
+        ],
+        "dosage": [
+            "2.5 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "ado-trastuzumab emtansine 100 MG Injection",
+        "quantity": [],
+        "drug_name": [
+            "ado-trastuzumab emtansine"
+        ],
+        "dosage": [
+            "100 MG"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "nebivolol 5 MG Oral Tablet [Bystolic]",
+        "quantity": [],
+        "drug_name": [
+            "nebivolol"
+        ],
+        "dosage": [
+            "5 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": [
+            "Bystolic"
+        ]
+    },
+    {
+        "original_text": "lisinopril 30 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "lisinopril"
+        ],
+        "dosage": [
+            "30 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "enalapril maleate 20 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "enalapril maleate"
+        ],
+        "dosage": [
+            "20 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "cetirizine hydrochloride 10 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "cetirizine hydrochloride"
+        ],
+        "dosage": [
+            "10 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Azithromycin 250mg",
+        "quantity": [],
+        "drug_name": [
+            "Azithromycin"
+        ],
+        "dosage": [
+            "250mg"
+        ],
+        "administration_type": [],
+        "brand": []
+    },
+    {
+        "original_text": "budesonide 0.125 MG/ML Inhalation Suspension",
+        "quantity": [],
+        "drug_name": [
+            "budesonide"
+        ],
+        "dosage": [
+            "0.125 MG/ML"
+        ],
+        "administration_type": [
+            "Inhalation Suspension"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "0.8 ML fondaparinux sodium 12.5 MG/ML Prefilled Syringe",
+        "quantity": [
+            "0.8 ML"
+        ],
+        "drug_name": [
+            "fondaparinux sodium"
+        ],
+        "dosage": [
+            "12.5 MG/ML"
+        ],
+        "administration_type": [
+            "Prefilled Syringe"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "hydrochlorothiazide 12.5 MG / valsartan 320 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "hydrochlorothiazide",
+            "valsartan"
+        ],
+        "dosage": [
+            "12.5 MG",
+            "320 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "vancomycin 1000 MG Injection",
+        "quantity": [],
+        "drug_name": [
+            "vancomycin"
+        ],
+        "dosage": [
+            "1000 MG"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "120 ACTUAT mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler [Asmanex]",
+        "quantity": [
+            "120 ACTUAT"
+        ],
+        "drug_name": [
+            "mometasone furoate"
+        ],
+        "dosage": [
+            "0.2 MG/ACTUAT"
+        ],
+        "administration_type": [
+            "Metered Dose Inhaler"
+        ],
+        "brand": [
+            "Asmanex"
+        ]
+    },
+    {
+        "original_text": "5 ML fulvestrant 50 MG/ML Prefilled Syringe",
+        "quantity": [
+            "5 ML"
+        ],
+        "drug_name": [
+            "fulvestrant"
+        ],
+        "dosage": [
+            "50 MG/ML"
+        ],
+        "administration_type": [
+            "Prefilled Syringe"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "ribociclib 200 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "ribociclib"
+        ],
+        "dosage": [
+            "200 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "efavirenz",
+            "emtricitabine",
+            "tenofovir disoproxil fumarate"
+        ],
+        "dosage": [
+            "600 MG",
+            "200 MG",
+            "300 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "dolutegravir 50 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "dolutegravir"
+        ],
+        "dosage": [
+            "50 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "labetalol hydrochloride 100 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "labetalol hydrochloride"
+        ],
+        "dosage": [
+            "100 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Trihexyphenidyl Hydrochloride 2 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Trihexyphenidyl Hydrochloride"
+        ],
+        "dosage": [
+            "2 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "amlodipine 10 MG / benazepril hydrochloride 20 MG Oral Capsule",
+        "quantity": [],
+        "drug_name": [
+            "amlodipine",
+            "benazepril hydrochloride"
+        ],
+        "dosage": [
+            "10 MG",
+            "20 MG"
+        ],
+        "administration_type": [
+            "Oral Capsule"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "rosuvastatin calcium 10 MG Oral Tablet [Crestor]",
+        "quantity": [],
+        "drug_name": [
+            "rosuvastatin calcium"
+        ],
+        "dosage": [
+            "10 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": [
+            "Crestor"
+        ]
+    },
+    {
+        "original_text": "metoprolol tartrate 50 MG Oral Tablet [Lopressor]",
+        "quantity": [],
+        "drug_name": [
+            "metoprolol tartrate"
+        ],
+        "dosage": [
+            "50 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": [
+            "Lopressor"
+        ]
+    },
+    {
+        "original_text": "tenecteplase 50 MG Injection",
+        "quantity": [],
+        "drug_name": [
+            "tenecteplase"
+        ],
+        "dosage": [
+            "50 MG"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "pravastatin sodium 10 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "pravastatin sodium"
+        ],
+        "dosage": [
+            "10 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Cefdinir",
+        "quantity": [],
+        "drug_name": [
+            "Cefdinir"
+        ],
+        "dosage": [],
+        "administration_type": [],
+        "brand": []
+    },
+    {
+        "original_text": "quinapril 40 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "quinapril"
+        ],
+        "dosage": [
+            "40 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "atazanavir 300 MG Oral Capsule",
+        "quantity": [],
+        "drug_name": [
+            "atazanavir"
+        ],
+        "dosage": [
+            "300 MG"
+        ],
+        "administration_type": [
+            "Oral Capsule"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "cobicistat",
+            "elvitegravir",
+            "emtricitabine",
+            "tenofovir disoproxil fumarate"
+        ],
+        "dosage": [
+            "150 MG",
+            "150 MG",
+            "200 MG",
+            "300 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "24 HR propranolol hydrochloride 60 MG Extended Release Oral Capsule",
+        "quantity": [
+            "24 HR"
+        ],
+        "drug_name": [
+            "propranolol hydrochloride"
+        ],
+        "dosage": [
+            "60 MG"
+        ],
+        "administration_type": [
+            "Extended Release Oral Capsule"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "amlodipine 5 MG / benazepril hydrochloride 20 MG Oral Capsule",
+        "quantity": [],
+        "drug_name": [
+            "amlodipine",
+            "benazepril hydrochloride"
+        ],
+        "dosage": [
+            "5 MG",
+            "20 MG"
+        ],
+        "administration_type": [
+            "Oral Capsule"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "24 HR propranolol hydrochloride 80 MG Extended Release Oral Capsule",
+        "quantity": [
+            "24 HR"
+        ],
+        "drug_name": [
+            "propranolol hydrochloride"
+        ],
+        "dosage": [
+            "80 MG"
+        ],
+        "administration_type": [
+            "Extended Release Oral Capsule"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "60 ACTUAT fluticasone propionate 0.05 MG/ACTUAT Dry Powder Inhaler [Flovent]",
+        "quantity": [
+            "60 ACTUAT"
+        ],
+        "drug_name": [
+            "fluticasone propionate"
+        ],
+        "dosage": [
+            "0.05 MG/ACTUAT"
+        ],
+        "administration_type": [
+            "Dry Powder Inhaler"
+        ],
+        "brand": [
+            "Flovent"
+        ]
+    },
+    {
+        "original_text": "exemestane 25 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "exemestane"
+        ],
+        "dosage": [
+            "25 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Lenzilumab 200 MG IV",
+        "quantity": [],
+        "drug_name": [
+            "Lenzilumab"
+        ],
+        "dosage": [
+            "200 MG"
+        ],
+        "administration_type": [
+            "IV"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "methadone hydrochloride 10 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "methadone hydrochloride"
+        ],
+        "dosage": [
+            "10 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "valsartan 320 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "valsartan"
+        ],
+        "dosage": [
+            "320 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "CD24Fc 480 MG IV",
+        "quantity": [],
+        "drug_name": [
+            "CD24Fc"
+        ],
+        "dosage": [
+            "480 MG"
+        ],
+        "administration_type": [
+            "IV"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "ramipril 1.25 MG Oral Capsule",
+        "quantity": [],
+        "drug_name": [
+            "ramipril"
+        ],
+        "dosage": [
+            "1.25 MG"
+        ],
+        "administration_type": [
+            "Oral Capsule"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "lovastatin 10 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "lovastatin"
+        ],
+        "dosage": [
+            "10 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "enalapril maleate 10 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "enalapril maleate"
+        ],
+        "dosage": [
+            "10 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Donepezil hydrochloride 10 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Donepezil hydrochloride"
+        ],
+        "dosage": [
+            "10 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Memantine hydrochloride 2 MG/ML Oral Solution",
+        "quantity": [],
+        "drug_name": [
+            "Memantine hydrochloride"
+        ],
+        "dosage": [
+            "2 MG/ML"
+        ],
+        "administration_type": [
+            "Oral Solution"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "10 ML Fluorouracil 50 MG/ML Injection",
+        "quantity": [
+            "10 ML"
+        ],
+        "drug_name": [
+            "Fluorouracil"
+        ],
+        "dosage": [
+            "50 MG/ML"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Benztropine mesylate 0.5 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Benztropine mesylate"
+        ],
+        "dosage": [
+            "0.5 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "metoprolol tartrate 100 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "metoprolol tartrate"
+        ],
+        "dosage": [
+            "100 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "telmisartan 80 MG Oral Tablet [Micardis]",
+        "quantity": [],
+        "drug_name": [
+            "telmisartan"
+        ],
+        "dosage": [
+            "80 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": [
+            "Micardis"
+        ]
+    },
+    {
+        "original_text": "labetalol hydrochloride 200 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "labetalol hydrochloride"
+        ],
+        "dosage": [
+            "200 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "ceftriaxone 1000 MG Injection",
+        "quantity": [],
+        "drug_name": [
+            "ceftriaxone"
+        ],
+        "dosage": [
+            "1000 MG"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "hydrochlorothiazide",
+            "valsartan"
+        ],
+        "dosage": [
+            "25 MG",
+            "160 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "120 ACTUAT mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler [Asmanex]",
+        "quantity": [
+            "120 ACTUAT"
+        ],
+        "drug_name": [
+            "mometasone furoate"
+        ],
+        "dosage": [
+            "0.1 MG/ACTUAT"
+        ],
+        "administration_type": [
+            "Metered Dose Inhaler"
+        ],
+        "brand": [
+            "Asmanex"
+        ]
+    },
+    {
+        "original_text": "irbesartan 75 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "irbesartan"
+        ],
+        "dosage": [
+            "75 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "rosuvastatin calcium 5 MG Oral Tablet [Crestor]",
+        "quantity": [],
+        "drug_name": [
+            "rosuvastatin calcium"
+        ],
+        "dosage": [
+            "5 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": [
+            "Crestor"
+        ]
+    },
+    {
+        "original_text": "lopinavir 200 MG / ritonavir 50 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "lopinavir",
+            "ritonavir"
+        ],
+        "dosage": [
+            "200 MG",
+            "50 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "24 HR carvedilol phosphate 20 MG Extended Release Oral Capsule [Coreg]",
+        "quantity": [],
+        "drug_name": [
+            "carvedilol phosphate"
+        ],
+        "dosage": [
+            "20 MG"
+        ],
+        "administration_type": [
+            "Extended Release Oral Capsule"
+        ],
+        "brand": [
+            "Coreg"
+        ]
+    },
+    {
+        "original_text": "propranolol hydrochloride 20 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "propranolol hydrochloride"
+        ],
+        "dosage": [
+            "20 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "ezetimibe 10 MG / simvastatin 20 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "ezetimibe",
+            "simvastatin"
+        ],
+        "dosage": [
+            "10 MG",
+            "20 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "propranolol hydrochloride 60 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "propranolol hydrochloride"
+        ],
+        "dosage": [
+            "60 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "neratinib 40 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "neratinib"
+        ],
+        "dosage": [
+            "40 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "rosuvastatin calcium 20 MG Oral Tablet [Crestor]",
+        "quantity": [],
+        "drug_name": [
+            "rosuvastatin calcium"
+        ],
+        "dosage": [
+            "20 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": [
+            "Crestor"
+        ]
+    },
+    {
+        "original_text": "amlodipine 2.5 MG / benazepril hydrochloride 10 MG Oral Capsule",
+        "quantity": [],
+        "drug_name": [
+            "amlodipine",
+            "benazepril hydrochloride"
+        ],
+        "dosage": [
+            "2.5 MG",
+            "10 MG"
+        ],
+        "administration_type": [
+            "Oral Capsule"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Carboplatin 10 MG/ML Injectable Solution",
+        "quantity": [],
+        "drug_name": [
+            "Carboplatin"
+        ],
+        "dosage": [
+            "10 MG/ML"
+        ],
+        "administration_type": [
+            "Injectable Solution"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "hydrochlorothiazide",
+            "valsartan"
+        ],
+        "dosage": [
+            "25 MG",
+            "320 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "canagliflozin 100 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "canagliflozin"
+        ],
+        "dosage": [
+            "100 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "3 ML liraglutide 6 MG/ML Pen Injector",
+        "quantity": [
+            "3 ML"
+        ],
+        "drug_name": [
+            "liraglutide"
+        ],
+        "dosage": [
+            "6 MG/ML"
+        ],
+        "administration_type": [
+            "Pen Injector"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "120 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]",
+        "quantity": [
+            "120 ACTUAT"
+        ],
+        "drug_name": [
+            "mometasone furoate"
+        ],
+        "dosage": [
+            "0.22 MG/ACTUAT"
+        ],
+        "administration_type": [
+            "Dry Powder Inhaler"
+        ],
+        "brand": [
+            "Asmanex"
+        ]
+    },
+    {
+        "original_text": "24 HR propranolol hydrochloride 120 MG Extended Release Oral Capsule",
+        "quantity": [
+            "24 HR"
+        ],
+        "drug_name": [
+            "propranolol hydrochloride"
+        ],
+        "dosage": [
+            "120 MG"
+        ],
+        "administration_type": [
+            "Extended Release Oral Capsule"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "reteplase 10 UNT Injection",
+        "quantity": [],
+        "drug_name": [
+            "reteplase"
+        ],
+        "dosage": [
+            "10 UNT"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "amlodipine 5 MG / benazepril hydrochloride 40 MG Oral Capsule",
+        "quantity": [],
+        "drug_name": [
+            "amlodipine",
+            "benazepril hydrochloride"
+        ],
+        "dosage": [
+            "5 MG",
+            "40 MG"
+        ],
+        "administration_type": [
+            "Oral Capsule"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Hydroxychloroquine Sulfate 200 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Hydroxychloroquine Sulfate"
+        ],
+        "dosage": [
+            "200 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "atorvastatin 10 MG Oral Tablet [Lipitor]",
+        "quantity": [],
+        "drug_name": [
+            "atorvastatin"
+        ],
+        "dosage": [
+            "10 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": [
+            "Lipitor"
+        ]
+    },
+    {
+        "original_text": "levofloxacin 500 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "levofloxacin"
+        ],
+        "dosage": [
+            "500 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Etoposide 100 MG Injection",
+        "quantity": [],
+        "drug_name": [
+            "Etoposide"
+        ],
+        "dosage": [
+            "100 MG"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "baricitinib 2 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "baricitinib"
+        ],
+        "dosage": [
+            "2 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Cyclophosphamide 1000 MG Injection",
+        "quantity": [],
+        "drug_name": [
+            "Cyclophosphamide"
+        ],
+        "dosage": [
+            "1000 MG"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "hydrochlorothiazide 12.5 MG / valsartan 80 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "hydrochlorothiazide",
+            "valsartan"
+        ],
+        "dosage": [
+            "12.5 MG",
+            "80 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "ezetimibe 10 MG / simvastatin 40 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "ezetimibe",
+            "simvastatin"
+        ],
+        "dosage": [
+            "10 MG",
+            "40 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "benazepril hydrochloride 20 MG / hydrochlorothiazide 12.5 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "benazepril hydrochloride",
+            "hydrochlorothiazide"
+        ],
+        "dosage": [
+            "20 MG",
+            "12.5 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "valsartan 40 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "valsartan"
+        ],
+        "dosage": [
+            "40 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "amlodipine 10 MG / benazepril hydrochloride 40 MG Oral Capsule",
+        "quantity": [],
+        "drug_name": [
+            "amlodipine",
+            "benazepril hydrochloride"
+        ],
+        "dosage": [
+            "10 MG",
+            "40 MG"
+        ],
+        "administration_type": [
+            "Oral Capsule"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "propranolol hydrochloride 10 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "propranolol hydrochloride"
+        ],
+        "dosage": [
+            "10 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "1 ML denosumab 60 MG/ML Prefilled Syringe",
+        "quantity": [
+            "1 ML"
+        ],
+        "drug_name": [
+            "denosumab"
+        ],
+        "dosage": [
+            "60 MG/ML"
+        ],
+        "administration_type": [
+            "Prefilled Syringe"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "nebivolol 20 MG Oral Tablet [Bystolic]",
+        "quantity": [],
+        "drug_name": [
+            "nebivolol"
+        ],
+        "dosage": [
+            "20 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": [
+            "Bystolic"
+        ]
+    },
+    {
+        "original_text": "Pulmozyme (Dornase Alfa)",
+        "quantity": [],
+        "drug_name": [
+            "Dornase Alfa"
+        ],
+        "dosage": [],
+        "administration_type": [],
+        "brand": [
+            "Pulmozyme"
+        ]
+    },
+    {
+        "original_text": "Pancreatin 600 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Pancreatin"
+        ],
+        "dosage": [
+            "600 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Vancomycin 50 MG/ML Injectable Solution",
+        "quantity": [],
+        "drug_name": [
+            "Vancomycin"
+        ],
+        "dosage": [
+            "50 MG/ML"
+        ],
+        "administration_type": [
+            "Injectable Solution"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "60 ACTUAT fluticasone propionate 0.1 MG/ACTUAT Dry Powder Inhaler [Flovent]",
+        "quantity": [
+            "60 ACTUAT"
+        ],
+        "drug_name": [
+            "fluticasone propionate"
+        ],
+        "dosage": [
+            "0.1 MG/ACTUAT"
+        ],
+        "administration_type": [
+            "Dry Powder Inhaler"
+        ],
+        "brand": [
+            "Flovent"
+        ]
+    },
+    {
+        "original_text": "dapsone 25 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "dapsone"
+        ],
+        "dosage": [
+            "25 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "pyrimethamine 25 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "pyrimethamine"
+        ],
+        "dosage": [
+            "25 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "leucovorin 25 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "leucovorin"
+        ],
+        "dosage": [
+            "25 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "quinapril 10 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "quinapril"
+        ],
+        "dosage": [
+            "10 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "20 ML tocilizumab 20 MG/ML Injection",
+        "quantity": [
+            "20 ML"
+        ],
+        "drug_name": [
+            "tocilizumab"
+        ],
+        "dosage": [
+            "20 MG/ML"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "pitavastatin calcium 1 MG Oral Tablet [Livalo]",
+        "quantity": [],
+        "drug_name": [
+            "pitavastatin calcium"
+        ],
+        "dosage": [
+            "1 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": [
+            "Livalo"
+        ]
+    },
+    {
+        "original_text": "Aztreonam 2000 MG Injection",
+        "quantity": [],
+        "drug_name": [
+            "Aztreonam"
+        ],
+        "dosage": [
+            "2000 MG"
+        ],
+        "administration_type": [
+            "Injection"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "24 HR propranolol hydrochloride 160 MG Extended Release Oral Capsule",
+        "quantity": [
+            "24 HR"
+        ],
+        "drug_name": [
+            "propranolol hydrochloride"
+        ],
+        "dosage": [
+            "160 MG"
+        ],
+        "administration_type": [
+            "Extended Release Oral Capsule"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "Azithromycin 250 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "Azithromycin"
+        ],
+        "dosage": [
+            "250 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "chloroquine phosphate 500 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "chloroquine phosphate"
+        ],
+        "dosage": [
+            "500 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "sulfamethoxazole 400 MG / trimethoprim 80 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "sulfamethoxazole",
+            "trimethoprim"
+        ],
+        "dosage": [
+            "400 MG",
+            "80 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "72 HR Scopolamine 0.0139 MG/HR Transdermal System [Transdermal Scop]",
+        "quantity": [
+            "72 HR"
+        ],
+        "drug_name": [
+            "Scopolamine"
+        ],
+        "dosage": [
+            "0.0139 MG/HR"
+        ],
+        "administration_type": [
+            "Transdermal System"
+        ],
+        "brand": [
+            "Transdermal Scop"
+        ]
+    },
+    {
+        "original_text": "Tacrine 10 MG Oral Capsule",
+        "quantity": [],
+        "drug_name": [
+            "Tacrine"
+        ],
+        "dosage": [
+            "10 MG"
+        ],
+        "administration_type": [
+            "Oral Capsule"
+        ],
+        "brand": []
+    },
+    {
+        "original_text": "benazepril hydrochloride 20 MG Oral Tablet",
+        "quantity": [],
+        "drug_name": [
+            "benazepril hydrochloride"
+        ],
+        "dosage": [
+            "20 MG"
+        ],
+        "administration_type": [
+            "Oral Tablet"
+        ],
+        "brand": []
+    }
+]

@@ -1,0 +1,66 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: docker/app/Dockerfile
+    container_name: app
+    image: rag-medication-ner:v1.0.0
+    environment:
+      - HAYSTACK_TELEMETRY_ENABLED=False
+    env_file:
+      - .env
+    depends_on:
+      - qdrant
+      - ollama
+    ports:
+      - ${FASTAPI_PORT}:8000
+    networks:
+      - rag-app-network
+
+  qdrant:
+    image: qdrant/qdrant:latest
+    restart: always
+    container_name: qdrant
+    env_file:
+      - .env
+    ports:
+      - ${QDRANT_PORT_EXTERNAL}:6333
+      - 6334:6334
+    volumes:
+      - qdrant_data:/qdrant/storage
+    networks:
+      - rag-app-network
+
+  ollama:
+    image: ollama/ollama:latest
+    restart: always
+    container_name: ollama
+    env_file:
+      - .env
+    environment:
+      - OLLAMA_HOST=0.0.0.0
+    volumes:
+      - ollama_data:/root/.ollama
+      - ./docker/ollama:/scripts
+    ports:
+      - ${OLLAMA_API_PORT_EXTERNAL}:11434
+    entrypoint: ["/bin/bash", "/scripts/entrypoint.sh"]
+    networks:
+      - rag-app-network
+    tty: true
+    # pull_policy: always
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+
+volumes:
+  qdrant_data:
+  ollama_data:
+
+networks:
+  rag-app-network:
+    driver: bridge
